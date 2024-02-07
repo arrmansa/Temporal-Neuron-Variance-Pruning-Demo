@@ -1,4 +1,4 @@
-# Temporal-Neuron-Variance-Pruning
+# Temporal-Neuron-Variance-Pruning-Demo
 An implementation of Variance Pruning: Pruning Language Models via Temporal Neuron Variance by Berry Weinstein, Yonatan Belinkov. [Link](https://openreview.net/forum?id=7d_GchF1e7)
 
 # How to use this
